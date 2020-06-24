@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/theoldbarber/static/css/main.31e93772.chunk.css",
+    "main.js": "/theoldbarber/static/js/main.476e2fa1.chunk.js",
+    "main.js.map": "/theoldbarber/static/js/main.476e2fa1.chunk.js.map",
+    "runtime-main.js": "/theoldbarber/static/js/runtime-main.cefc9ba6.js",
+    "runtime-main.js.map": "/theoldbarber/static/js/runtime-main.cefc9ba6.js.map",
+    "static/css/2.e603e8eb.chunk.css": "/theoldbarber/static/css/2.e603e8eb.chunk.css",
+    "static/js/2.a5422684.chunk.js": "/theoldbarber/static/js/2.a5422684.chunk.js",
+    "static/js/2.a5422684.chunk.js.map": "/theoldbarber/static/js/2.a5422684.chunk.js.map",
+    "index.html": "/theoldbarber/index.html",
+    "precache-manifest.5403df379979dd60d3619ea6c7800dba.js": "/theoldbarber/precache-manifest.5403df379979dd60d3619ea6c7800dba.js",
+    "service-worker.js": "/theoldbarber/service-worker.js",
+    "static/css/2.e603e8eb.chunk.css.map": "/theoldbarber/static/css/2.e603e8eb.chunk.css.map",
+    "static/css/main.31e93772.chunk.css.map": "/theoldbarber/static/css/main.31e93772.chunk.css.map",
+    "static/js/2.a5422684.chunk.js.LICENSE.txt": "/theoldbarber/static/js/2.a5422684.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cefc9ba6.js",
+    "static/css/2.e603e8eb.chunk.css",
+    "static/js/2.a5422684.chunk.js",
+    "static/css/main.31e93772.chunk.css",
+    "static/js/main.476e2fa1.chunk.js"
+  ]
+}
